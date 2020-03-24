@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Understand Coronavirus</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<header id="main-header">
+		<div class="container">
+			<h1>Understand Coronavirus</h1>
+		</div>
+	</header>
+
+	<nav id="navbar">
+		<div class="container">
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="https://www.who.int/health-topics/coronavirus">About</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</div>
+	</nav>
+
+	<section id="showcase">
+		<div class="container">
+			<h1>
+				
+			</h1>
+		</div>
+	</section>
+
+<div class="container">
+	<section id="main">
+		<h1>What is Coronavirus?</h1>
+		<p>
+			Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV). A novel coronavirus (nCoV) is a new strain that has not been previously identified in humans. 
+		</p>
+		<ul>
+			<li><a href="file:///C:/Users/Meng/Desktop/project/protect.html">How to protect yourself</a></li>
+			<li><a href="file:///C:/Users/Meng/Desktop/project/whattodo.html">What do you do if you are sick</a></li>
+			<li><a href="file:///C:/Users/Meng/Desktop/project/higherrisk.html">People at Higher Risk</a></li>
+		</ul>
+	</section>
+
+	<aside id="sidebar">
+		<p>
+			<h2>Signs and Symptoms</h2>
+			<h3>2-14 days after exposure</h3>
+			<ul>
+                <li><a href="https://medlineplus.gov/ency/article/001982.htm">Fever(>99 F)</a></li>
+                <li>Cough</li>
+                <li>Shortness of Breath</li>
+            </ul>
+		</p>
+	</aside>
+	</div>
+
+	<footer id="main-footer">
+		<p>Copyright &copy; 2020 My Website</p>
+	</footer>
+</body>
+</html>
