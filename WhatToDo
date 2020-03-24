@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>What to do if you are sick</title>
+	<meta name = "description" content = "Awesome blog by Meng">
+	<meta name = "Keywords" content = "web design blog, web dev blog, Meng media">
+	<style type="text/css">
+		#main-header{
+			text-align:center;
+			background-color: black;
+			color:whitesmoke;
+			padding:10px;
+		}
+		#main-footer{
+			text-align:center;
+			padding:18px;
+		}
+	</style>
+</head>
+<body>
+	<header id="main-header">
+	<h1>What to do if you are sick</h1>
+	</header>
+
+	<a href="C:\Users\Meng\Desktop\project\Coronavirus.html">Coronavirus--Home</a>
+
+	<section>
+		<article class="POST">
+			<p>
+				<h4>If you are sick with COVID-19 or suspect you are infected with the virus that causes COVID-19, follow the steps below to help prevent the disease from spreading to people in your home and community.</h4>	
+			</p>
+		</article>
+		<article class="POST">
+			<h3>Stay home except to get medical care</h3>
+			<small>Posted by Meng on Mar.6 </small>
+			<p>
+				<li>Stay home: People who are mildly ill with COVID-19 are able to isolate at home during their illness. You should restrict activities outside your home, except for getting medical care.</li>
+				<li>Avoid public areas:Do not go to work, school, or public areas.</li>
+				<li>Avoid public transportation: Avoid using public transportation, ride-sharing, or taxis.</li>
+			</p>
+			<a href="https://www.cdc.gov/coronavirus/2019-ncov/community/home/get-your-household-ready-for-COVID-19.html">Read More</a>
+		</article>
+		<article class="POST">
+			<h3>Separate yourself from other people and animals in your home</h3>
+			<small>Posted by Meng on Mar.6 </small>
+			<p>
+			<li>Stay away from others: As much as possible, you should stay in a specific room and away from other people in your home. Also, you should use a separate bathroom, if available.</li>
+			<li>Limit contact with pets & animals: You should restrict contact with pets and other animals while you are sick with COVID-19, just like you would around other people. Although there have not been reports of pets or other animals becoming sick with COVID-19, it is still recommended that people sick with COVID-19 limit contact with animals until more information is known about the virus.</li>
+			<li>When possible, have another member of your household care for your animals while you are sick. If you are sick with COVID-19, avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food. If you must care for your pet or be around animals while you are sick, wash your hands before and after you interact with pets and wear a facemask.</li>
+			</p>
+			<a href="https://www.cdc.gov/coronavirus/2019-ncov/faq.html#2019-nCoV-and-animals">Read More</a>
+		</article>
+	</section>
+	<aside>
+		<h3>Categories</h3>
+		<nav>
+			<ul>
+				<li><a href="C:\Users\Meng\Desktop\project\whattodo.html">What to do if you are sick</a></li>
+				<li><a href="C:\Users\Meng\Desktop\project\higherrisk.html">Who is at Higher Risk</a></li>
+				<li><a href="C:\Users\Meng\Desktop\project\protect.html">How to protect yourself</a></li>
+			</ul>
+		</nav>
+		
+	</aside>
+	<footer id="main-footer">
+		<p>Copyright &copy; 2020, Meng's Website</p>
+	</footer>
+</body>
+</html>
