@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Protect yourself</title>
+	<meta name = "description" content = "Awesome blog by Meng">
+	<meta name = "Keywords" content = "web design blog, web dev blog, Meng media">
+	<style type="text/css">
+		#main-header{
+			text-align:center;
+			background-color: black;
+			color:whitesmoke;
+			padding:10px;
+		}
+		#main-footer{
+			text-align:center;
+			padding:18px;
+		}
+	</style>
+</head>
+<body>
+	<header id="main-header">
+	<h1>How to protect yourself</h1>
+	</header>
+
+	<a href="C:\Users\Meng\Desktop\project\Coronavirus.html">Coronavirus--Home</a>
+
+	<section>
+		<article class="POST">
+			<h3>Clean your hands often</h3>
+			<small>Posted by Meng on Mar.6 </small>
+			<p>
+				<ul>
+
+					<li>Wash your hands often with soap and water for at least 20 seconds especially after you have been in a public place, or after blowing your nose, coughing, or sneezing.</li>
+					<li>If soap and water are not readily available, use a hand sanitizer that contains at least 60% alcohol. Cover all surfaces of your hands and rub them together until they feel dry.</li>
+					<li>Avoid touching your eyes, nose, and mouth with unwashed hands.</li>
+				</ul>
+				
+			</p>
+			<a href="https://www.youtube.com/watch?v=IisgnbMfKvI">Handwashing steps by WHO</a>
+		</article>
+		<article class="POST">
+			<h3>Avoid close contact</h3>
+			<small>Posted by Meng on Mar.6 </small>
+			<p>
+				<li>Avoid close contact (within 6 inches) with people who are sick</li>
+				<li>Put distance between yourself and other people if COVID-19 is spreading in your community. </li>
+			</p>
+		</article>
+	</section>
+	<aside>
+		<h3>Categories</h3>
+		<nav>
+			<ul>
+				<li><a href="C:\Users\Meng\Desktop\project\whattodo.html">What to do if you are sick</a></li>
+					<li><a href="C:\Users\Meng\Desktop\project\higherrisk.html">Who is at Higher Risk</a></li>
+					<li><a href="C:\Users\Meng\Desktop\project\protect.html">How to protect yourself</a></li>
+			</ul>
+		</nav>
+		
+	</aside>
+	<footer id="main-footer">
+		<p>Copyright &copy; 2020, Meng's Website</p>
+	</footer>
+</body>
+</html>
